@@ -33,3 +33,4 @@ In your second terminal, `cd` into the "webapp" folder. Install your node depend
 In a terminal, `cd` into the "03_flask_blueprints" folder of your cloned repo. Just like Method 1, you already have everything you need installed. Use `flask run` to start your app in a development server on localhost:5000.
 
 ### Jace is my hero, but not really ###
+This is new text under my previous comment header.
